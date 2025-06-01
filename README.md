@@ -1,3 +1,3 @@
 # React 
 <br>
-## This is tutorials of React 
+This is tutorials of React 
